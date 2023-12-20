@@ -4,6 +4,8 @@ Project Title: Scrape Contents of Files into a Text File
 
 Project Description: A Python program designed to aggregate text from files (.txt, .csv, .json, .xml, .cs) into a single document. Features include easy directory selection and a simple GUI. Useful for preparing data for AI chat prompts. 
 
+![Picture of the interface](https://github.com/David-Franciamone/Useful-for-chat-prompts-Combine-the-contents-of-all-files-into-one.-/blob/main/Screenshot%202023-12-19%20204656.png)
+
 
 Installation: 
 	1) Keep the contents of this folder as is (e.g. do not change or move the ‘_internal’ folder).  
